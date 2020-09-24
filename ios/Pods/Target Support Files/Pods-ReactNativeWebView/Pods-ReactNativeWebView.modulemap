@@ -1,0 +1,6 @@
+module Pods_ReactNativeWebView {
+  umbrella header "Pods-ReactNativeWebView-umbrella.h"
+
+  export *
+  module * { export * }
+}
